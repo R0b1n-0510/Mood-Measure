@@ -315,12 +315,13 @@ label #btn, label #cancel{
     border-radius: 7px;
     margin-bottom: 20px;
     color: #fff;
+    position: relative;
 }
 .single-service img{
     width: 100%;
     border-radius: 7px;
 }
-/* .overlay{
+.overlay{
     width: 100%;
     height: 100%;
     position: absolute;
@@ -328,4 +329,4 @@ label #btn, label #cancel{
     border-radius: 7px;
     cursor: pointer;
     background: linear-gradient(rgba(0,0,0,0.5),#009688);
-} */
+}
